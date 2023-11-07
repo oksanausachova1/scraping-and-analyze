@@ -1,0 +1,12 @@
+import bs4
+import google.colab
+import matplotlib
+import numpy
+import pandas
+import requests
+import sklearn
+import scipy
+import seaborn
+
+
+	
